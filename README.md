@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @yodahe-dev<br>- 👀 Interested in: UI, back-end systems, AI, serverless, and cloud tech.<br>- 🌱 Learning: React, TypeScript, DevOps, AWS, GCP, and AI.<br>- 💞️ Looking to collaborate on: Open-source, startups, challenging projects.<br>- 📫 How to reach me yodijone@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Love coding challenges and exploring new ideas
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/yodahe.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yodahemelese/) 
 
